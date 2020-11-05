@@ -10,3 +10,18 @@ the general steps of this method including:
 2. Pose estimation from two views
 3. Triangulation
 4. Nonlinear optimization
+
+## Installation Dependencies
+
+1. OpenCV
+2. Eigen
+3. G2O
+
+## Building project
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
