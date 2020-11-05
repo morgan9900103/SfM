@@ -17,13 +17,20 @@ the general steps of this method including:
 2. Eigen
 3. G2O
 
-## Building project
+## Build project
 
 ```bash
 mkdir build
 cd build
 cmake ..
 make
+```
+
+## Run project
+
+```bash
+cd SfM
+./bin/run_sfm data/1.png data/2.png
 ```
 
 ## To be continued
