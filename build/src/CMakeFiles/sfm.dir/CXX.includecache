@@ -11,10 +11,6 @@ eigen3/Eigen/Core
 -
 eigen3/Eigen/Geometry
 -
-sophus/se3.h
--
-sophus/so3.h
--
 opencv2/core/core.hpp
 -
 opencv2/core/types.hpp
