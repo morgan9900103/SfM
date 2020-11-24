@@ -1,6 +1,6 @@
 # Structure from Motion
 
-This is a project for SfM. Utilized series of 2D images to reconstruct a 3D structre of scene.
+This is a project for SfM. Utilized series of 2D images to reconstruct a 3D structure of scene.
 
 ## Overview
 
